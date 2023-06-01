@@ -1,4 +1,1 @@
-My first readme
-echo 'My first readme' > README.md
-pwd
-cd
+chelsea has fallen
